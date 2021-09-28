@@ -6,7 +6,7 @@
 5. Update Employee
 6. Delete Employee
 7. Calculate my salary income
-8. exit
+8. Exit
 */
 
 /* EMPLOYEE
